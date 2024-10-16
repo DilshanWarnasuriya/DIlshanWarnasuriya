@@ -18,11 +18,11 @@
     <a target="_blank" href="https://www.linkedin.com/in/dilshan-warnasuriya" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
     <a target="_blank" href="https://www.facebook.com/profile.php?id=61556288667504" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
     <a target="_blank" href="dilshan.se.dew@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" t="mail" style="margin-bottom: 5px;"></a>
-</p>
+</p></br>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Technologies and Tools</h3>
 
 <p align="center">
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Angular-Light.svg" alt="angular" width="50" height="50"/>
