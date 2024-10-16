@@ -17,6 +17,12 @@
 :technologist: You can visit [MY WEBSITE](https://dilshanwarnasuriya.github.io/Student-information/).</br>
 </br>
 
+<p align="center">
+    <a target="_blank" href="dilshan.se.dew@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" t="mail" style="margin-bottom: 5px;"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/dilshan-warnasuriya" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+    <a target="_blank" href="https://www.facebook.com/profile.php?id=61556288667504" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+</p>
+
 ---
 
 <h3 align="center">Languages and Tools:</h3>
