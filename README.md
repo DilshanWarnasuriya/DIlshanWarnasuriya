@@ -1,26 +1,23 @@
 
 <p align="center">
-    <img width="15%" alt="Github" src="https://github.com/DIlshanWarnasuriya/DIlshanWarnasuriya/blob/main/image.png" >
+    <img width="10%" alt="Github" src="https://github.com/DIlshanWarnasuriya/DIlshanWarnasuriya/blob/main/image.png" >
 </p>
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I am Dilshan Warnasuriya</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I am Dilshan</h1>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </br>
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+:🔭 Full Stack Software Engineer</br>
+:student: BSc (Hons) Software Engineering (Undergraduate)</br>
+:student: Higher Diploma in Computing and Software Engineering (completed)</br>
+🏕️ Kadawatha</br>
+:technologist: You can visit [MY WEBSITE](https://dilshanwarnasuriya.github.io/Student-information/).
 </br></br>
-:🔭 I am a full-stack software engineer.</br>
-:student: I’m done Higher Diploma in Computing and Software Engineering</br>
-🏕️ I’m from Kadawatha, Weston Province and I’m 25.</br>
-:technologist: I specialize in crafting seamless digital solutions</br>
-:nerd_face: Passionate about innovation and problem-solving.</br>
-:technologist: You can visit [MY WEBSITE](https://dilshanwarnasuriya.github.io/Student-information/).</br>
-</br>
 
-<p align="center">
-    <a target="_blank" href="dilshan.se.dew@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" t="mail" style="margin-bottom: 5px;"></a>
+<p>
     <a target="_blank" href="https://www.linkedin.com/in/dilshan-warnasuriya" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
     <a target="_blank" href="https://www.facebook.com/profile.php?id=61556288667504" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+    <a target="_blank" href="dilshan.se.dew@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" t="mail" style="margin-bottom: 5px;"></a>
 </p>
 
 ---
