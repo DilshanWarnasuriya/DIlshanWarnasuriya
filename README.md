@@ -27,11 +27,11 @@
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/>
 </p>
 <p align="center">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="java" width="50" height="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="java" width="50" height="50"/>  
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="java" width="50" height="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="java" width="50" height="50"/>  
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/>   
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" alt="spring" width="50" height="50"/>  
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="java" width="50" height="50"/>
 </p>
