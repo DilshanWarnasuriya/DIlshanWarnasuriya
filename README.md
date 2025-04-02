@@ -4,8 +4,9 @@
 <h3>🧑 About Me</h3>
 
 👩‍💻 Full Stack Software Developer</br>
-🤖 BSc (Hons) Software Engineering at ICBT (Undergraduate)</br>
+📚 BSc (Hons) Software Engineering at ICBT (Undergraduate)</br>
 📚 Higher Diploma in Computing and Software Engineering (completed)</br>
+🔍 Problem Solver | Team Player | Always Learning </br>
 🏠 Kadawatha </br>
 ⚡️ I'm so excited to work this technologies and tools
 
