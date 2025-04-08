@@ -7,8 +7,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilshanWarnasuriya&theme=algolia" alt="sharada-marasinha" />
   <img alt="sharada-marasinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DilshanWarnasuriya&show_icons=true&count_private=true&theme=algolia"/>
 </p>
-
-<h2 align="center"">🛠 Technologies and Tools :</h2>&nbsp;
+</br>
 
 <p align="center">
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="java" width="50" height="50"/>
