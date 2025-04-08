@@ -1,16 +1,13 @@
 
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I am Dilshan</h1>
-<h3 align="center">--> Full-Stack Developer <--</h3>
+<h3 align="center">---> Full-Stack Developer <---</h3>
 </br>
   
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilshanWarnasuriya&theme=algolia" alt="sharada-marasinha" />
   <img alt="sharada-marasinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DilshanWarnasuriya&show_icons=true&count_private=true&theme=algolia"/>
 </p>
-<p align="center">
-  
-</p>
-
+&nbsp;
 
 <h2 align="center"">🛠 Technologies and Tools :</h2>&nbsp;
 
