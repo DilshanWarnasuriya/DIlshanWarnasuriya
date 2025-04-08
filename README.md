@@ -1,15 +1,14 @@
 
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I am Dilshan</h1>
-
-<h3>🧑 About Me</h3>
-
-👩‍💻 Full Stack Software Developer</br>
-📚 BSc (Hons) Software Engineering at ICBT (Undergraduate)</br>
-📚 Higher Diploma in Computing and Software Engineering (completed)</br>
-🔍 Problem Solver | Team Player | Always Learning </br>
-🏠 Kadawatha </br>
-⚡️ I'm so excited to work this technologies and tools
-
+<h3 align="center">-----> Full-Stack Developer <-----</h3>
+</br>
+  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilshanWarnasuriya&theme=algolia" alt="sharada-marasinha" />
+</p>
+<p align="center">
+  <img alt="sharada-marasinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DilshanWarnasuriya&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+</p>
 </br>
 
 <h2 align="center">🛠 Technologies and Tools :</h3>
