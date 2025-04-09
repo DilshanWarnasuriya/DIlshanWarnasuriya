@@ -5,6 +5,8 @@
   
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilshanWarnasuriya&theme=algolia" alt="DIlshan Warnasuriya" />
+</p>
+<p align="center">
   <img alt="DIlshan Warnasuriya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DilshanWarnasuriya&show_icons=true&count_private=true&theme=algolia"/>
 </p>
 </br>
