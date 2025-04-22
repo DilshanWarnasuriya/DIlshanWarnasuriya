@@ -4,7 +4,6 @@
 </br>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilshanWarnasuriya&theme=algolia" />
   <img src="https://github-readme-stats.vercel.app/api?username=DilshanWarnasuriya&show_icons=true&count_private=true&theme=algolia"/>
 </p>
 </br>
