@@ -13,7 +13,7 @@
   <a href="https://www.facebook.com/profile.php?id=61556288667504" target="blank"><img src="https://res.cloudinary.com/dxr4pfnmv/image/upload/v1745348787/facebook_icon_bm6znh.png" alt="java" width="50" height="50"/></a>  
   <a href="https://www.instagram.com/dilshandew/" target="blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="mysql" width="50" height="50"/></a>
   <a href="https://www.discordapp.com/users/1357781670656217373" target="blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" alt="java" width="50" height="50"/></a>   
-  <a href="Wa.me/+940743838490" target="blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/016/716/480/small_2x/whatsapp-icon-free-png.png" alt="spring" width="50" height="50"/></a> 
+  <a href="https://api.whatsapp.com/send/?phone=+940743838490" target="blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/016/716/480/small_2x/whatsapp-icon-free-png.png" alt="spring" width="50" height="50"/></a> 
 </p>
 </br>
 
